@@ -6,3 +6,41 @@
   width: 50%;
   margin: 0 auto;
 }
+
+.card-img-top {
+  width: 100%;
+  height: 10vw;
+  object-fit: scale-down;
+}
+
+.contentContainer{
+    height: 100%;
+    background-color: tomato;
+}
+
+/* p{
+    background-image: url('https://i.redd.it/7wd9ncmu8lj41.jpg');
+    width:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+.hero-image{
+    background-image: url("../images/Lowdowimage.jpg");
+    height: 100%;
+    background-position:inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav{
+    background-image: url("../images/1.jpg");
+    background-position:bottom;
+    background-repeat: no-repeat;
+    background-size:cover
+}
+
+
+
+
